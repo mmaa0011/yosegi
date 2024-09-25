@@ -1,0 +1,64 @@
+header {
+    padding: 30px 4% 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+ }
+
+ h1{
+    margin: 0;padding: 0;
+    font-size: 50px;
+ }
+ 
+ a{
+    text-decoration: none;
+    color: #000;
+ }
+
+ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+li{
+    margin: 0 0 0 15px;
+    font-size: 14px;
+}
+
+nav{
+    margin: 0 0 0 700px;
+}
+
+h2 {
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    background-image: url(寄木細工.jpeg);
+    display: flex;
+    justify-content: center;
+    padding: 25% 0 25% 0;
+}
+
+h3{
+    font-size: 60px;
+    li{
+        font-size: 30px;
+    };
+}
+img.sample1{
+    width: 20%;
+}
+h4{
+    font-size: 60px;
+    li{
+        font-size: 30px;
+    };
+}
+h5{
+    margin: 0 25% 0 25%;
+    font-size: 50px;
+}
